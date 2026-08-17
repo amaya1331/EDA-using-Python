@@ -178,4 +178,4 @@ This project demonstrates practical experience with:
 
 
 
-LinkedIn: https://www.linkedin.com/in/<your-profile>
+LinkedIn: 
